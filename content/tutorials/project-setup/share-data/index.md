@@ -14,6 +14,7 @@ draft: false
 
 ## Workflow
 
+It's blabla
 - Code and doc: Git
 - Raw data, confidential (e.g., JSON files with like personal data it): stored at institution (or, in our case, some S3 bucket only we have access to)
 - Data to be published: running code on confidential raw data
